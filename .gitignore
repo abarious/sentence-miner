@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore secret files
+key.txt
+
+# vs code
+.vs/
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
